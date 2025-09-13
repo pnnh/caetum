@@ -1,0 +1,3 @@
+[submodule "pnnh/caecom"]
+	path = pnnh/caecom
+	url = git@github.com:pnnh/caecom.git
